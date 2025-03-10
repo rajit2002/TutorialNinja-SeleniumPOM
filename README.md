@@ -12,15 +12,15 @@ The project follows a modular structure with well-organized packages:
 
 This package contains classes that represent different pages of the website. Each class includes locators and methods to interact with the elements.
 
-AccountRegistrationPage.java – Handles account registration functionalities.
+I.AccountRegistrationPage.java – Handles account registration functionalities.
 
-BasePage.java – Parent class containing common methods for all pages.
+II.BasePage.java – Parent class containing common methods for all pages.
 
-HomePage.java – Represents the homepage and its interactions.
+III.HomePage.java – Represents the homepage and its interactions.
 
-LoginPage.java – Contains login page elements and methods.
+IV.LoginPage.java – Contains login page elements and methods.
 
-MyAccountPage.java – Represents the user account page after successful login.
+V.MyAccountPage.java – Represents the user account page after successful login.
 
 2. TestBase Package (testBase)
 
@@ -32,35 +32,35 @@ BaseClass.java – Manages the setup and teardown of WebDriver, configuration se
 
 This package contains test scripts that validate different functionalities:
 
-AccountRegistrationTest.java – Verifies the user registration process.
+I.AccountRegistrationTest.java – Verifies the user registration process.
 
-LoginTest.java – Tests the login functionality with valid credentials.
+II.LoginTest.java – Tests the login functionality with valid credentials.
 
-LoginDDTTest.java – Implements Data-Driven Testing (DDT) for login using external test data.
+III.LoginDDTTest.java – Implements Data-Driven Testing (DDT) for login using external test data.
 
 4. Utilities
 
 Additional functionalities covered:
 
-Extent Reports – Generates a detailed report of test execution with logs.
+A.Extent Reports – Generates a detailed report of test execution with logs.
 
-Screenshots – Captures screenshots on test failures for debugging.
+B.Screenshots – Captures screenshots on test failures for debugging.
 
-Test Data Handling – Uses external data sources for DDT.
+C.Test Data Handling – Uses external data sources for DDT.
 
-Tools & Technologies Used
+D.Tools & Technologies Used
 
-Programming Language: Java
+C.Programming Language: Java
 
-Build Tool: Maven
+D.Build Tool: Maven
 
-Testing Framework: TestNG
+F.Testing Framework: TestNG
 
-Automation Tool: Selenium WebDriver
+G.Automation Tool: Selenium WebDriver
 
-Design Pattern: Page Object Model (POM)
+H.Design Pattern: Page Object Model (POM)
 
-Reporting: Extent Reports
+I.Reporting: Extent Reports
 
-Data-Driven Testing: Excel/CSV file integration
+J.Data-Driven Testing: Excel/CSV file integration
 
