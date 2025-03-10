@@ -1,0 +1,1023 @@
+15:27:45.809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+15:27:45.831 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+15:27:45.838 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 28 ms.
+15:27:45.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+15:27:45.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:27:45.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:45.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:45.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:46.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.037 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:46.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:27:46.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:46.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:27:46.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:27:46.171 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\AppData\Local\Temp\testng-eclipse-701051927\testng-customsuite.xml
+
+15:27:46.285 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 22 ms.
+15:27:56.014 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+15:27:56.208 [main] INFO  testCases.TC001_AccountRegistrationTest -  ***** Starting TC001_AccountRegistrationTest ****
+15:27:56.630 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount Link
+15:27:58.433 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link
+15:27:58.439 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:28:01.123 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:28:13.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+15:28:14.105 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@129bd55d: 474 ms
+15:28:14.362 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@350a94ce: 257 ms
+15:28:14.412 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a904f32: 39 ms
+15:28:14.476 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75a118e6: 64 ms
+15:28:14.510 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@28c86134: 32 ms
+15:28:14.512 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4492eede: 0 ms
+10:51:04.545 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+10:51:04.695 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml] otherwise TestNG may fail or not work as expected.
+10:51:05.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+10:53:18.323 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+10:53:18.527 [main] INFO  testCases.TC001_AccountRegistrationTest -  ***** Starting TC001_AccountRegistrationTest ****
+10:53:19.698 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount Link
+10:53:37.249 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register Link
+10:53:37.268 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+10:53:39.954 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+10:53:50.269 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+10:53:50.270 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs....
+10:53:56.156 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+12:01:45.233 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml"
+12:01:45.448 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+12:01:47.577 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml
+
+12:03:19.248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml"
+12:03:19.438 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+12:03:21.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\crossbrowserTesting.xml
+
+12:31:44.887 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\AppData\Local\Temp\testng-eclipse--838534354\testng-customsuite.xml"
+12:31:46.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:31:46.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+12:31:46.190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.192 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+12:31:46.323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+12:31:46.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+12:31:46.359 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.408 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.418 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.472 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+12:31:46.488 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+12:31:46.489 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.492 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:46.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:31:46.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\AppData\Local\Temp\testng-eclipse--838534354\testng-customsuite.xml
+
+12:31:46.828 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+12:31:48.130 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@28fa700e: 589 ms
+12:31:48.522 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@25243bc1: 392 ms
+12:31:48.684 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@79c4715d: 161 ms
+12:31:48.733 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3add81c4: 35 ms
+12:31:48.753 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@59221b97: 20 ms
+12:31:48.754 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ac4944a: 0 ms
+12:33:25.011 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+12:33:25.183 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml] otherwise TestNG may fail or not work as expected.
+12:33:26.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+12:33:27.082 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+12:34:15.570 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+12:34:15.703 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+12:34:16.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+12:34:18.897 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+12:34:18.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:34:21.219 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+12:34:35.361 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+17:21:09.748 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+17:21:09.825 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml] otherwise TestNG may fail or not work as expected.
+21:22:43.499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:22:47.457 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:24:48.301 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:25:44.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:25:46.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:25:46.494 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+21:26:11.681 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+21:26:12.229 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+21:26:13.294 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+21:26:15.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+21:26:15.205 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+21:26:17.724 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+21:39:14.329 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:39:15.851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:39:16.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+21:39:43.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+21:39:43.719 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+21:39:44.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+21:39:45.149 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+21:39:45.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+21:39:46.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+21:39:59.434 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+21:39:59.443 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+21:40:16.662 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+21:40:16.879 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+21:40:27.524 [main] ERROR testCases.TC002_LoginTest - Test failed due to exception: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e45a5536-8ee6-4ab6-b08a-85fe23db8eb8, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:45431, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12280, moz:profile: C:\Users\rajit\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:45431/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e45a5536-8ee6-4ab6-b08a-85fe23db8eb8
+21:40:29.821 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+00:08:12.496 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+00:08:13.563 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+00:08:13.831 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+00:08:35.861 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+00:08:36.016 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+00:08:45.847 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+00:08:53.590 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+13:01:09.422 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+13:01:10.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+13:01:10.883 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+13:01:33.154 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+13:01:33.479 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+13:01:44.279 [main] ERROR testCases.TC002_LoginTest - Test failed due to exception: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3a068ea5-9d43-4ee3-b470-4c670939cc69, findElement {using=xpath, value=//input[@id='input-email']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:35832, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15176, moz:profile: C:\Users\rajit\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:35832/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 3a068ea5-9d43-4ee3-b470-4c670939cc69
+13:01:48.088 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+13:32:51.465 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+13:32:52.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+13:32:52.854 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+13:33:11.546 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+13:33:12.119 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+13:33:16.197 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+13:33:19.895 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+21:28:15.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:28:16.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:28:16.770 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+21:28:32.739 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+21:28:33.150 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+21:28:36.187 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+21:28:41.261 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+21:28:41.266 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:28:54.466 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:29:01.125 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:31:37.715 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:31:38.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:31:39.193 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:31:54.435 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:32:01.828 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:33:36.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:33:37.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:33:37.529 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:33:53.360 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:33:58.443 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:39:47.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\AppData\Local\Temp\testng-eclipse-1596635862\testng-customsuite.xml"
+21:39:48.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+21:39:48.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.688 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.693 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.712 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+21:39:48.772 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 59 ms.
+21:39:48.784 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:39:48.786 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.816 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.818 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:39:48.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+21:39:48.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+21:39:48.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:39:48.856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:39:48.885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\AppData\Local\Temp\testng-eclipse-1596635862\testng-customsuite.xml
+
+21:39:49.031 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 17 ms.
+21:39:49.230 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: \testData\opencart_logindata.xlsx (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:106)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:38)
+	at utilities.DataProviders.getData(DataProviders.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+21:39:50.171 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@78e16155: 627 ms
+21:39:50.210 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@63a5e46c: 38 ms
+21:39:50.234 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3be8821f: 23 ms
+21:39:50.262 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b5f8707: 27 ms
+21:39:50.298 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51bde877: 35 ms
+21:39:50.299 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@60b85ba1: 1 ms
+23:47:05.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+23:47:06.927 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+23:47:07.121 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+23:47:23.502 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+23:47:27.151 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+16:27:08.426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+16:27:09.693 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+16:27:10.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+16:27:27.061 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+16:27:27.948 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:27:28.840 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+16:27:30.121 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+16:27:30.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:27:32.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+16:27:46.301 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+16:31:27.710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+16:31:28.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+16:31:29.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+16:31:48.779 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+16:31:49.160 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:31:49.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+16:31:50.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+16:31:50.968 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:31:54.003 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+16:32:09.027 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+20:53:11.280 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+20:53:12.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+20:53:12.600 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+20:53:25.657 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+20:53:29.014 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+20:53:29.167 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:53:39.302 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed due to Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=133.0.6943.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6fdef409cb2645e81fe74fefea0f4bac, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.98, chrome: {chromedriverVersion: 133.0.6943.98 (da53563ceb66..., userDataDir: C:\Users\rajit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53870}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53870/devtoo..., se:cdpVersion: 133.0.6943.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fdef409cb2645e81fe74fefea0f4bac
+20:53:39.304 [main] DEBUG testCases.TC001_AccountRegistrationTest - Stack Trace: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=133.0.6943.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6fdef409cb2645e81fe74fefea0f4bac, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.98, chrome: {chromedriverVersion: 133.0.6943.98 (da53563ceb66..., userDataDir: C:\Users\rajit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53870}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53870/devtoo..., se:cdpVersion: 133.0.6943.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fdef409cb2645e81fe74fefea0f4bac
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:29) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20:53:42.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+21:00:52.182 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:00:53.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:00:53.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+21:01:02.065 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+21:01:05.949 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+21:01:06.164 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+21:01:07.088 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+21:01:08.668 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+21:01:08.679 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+21:01:11.946 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+21:01:25.347 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+21:07:16.925 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:07:18.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:07:18.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+21:07:24.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+21:07:28.805 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+21:07:29.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+21:07:29.863 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+21:07:32.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+21:07:32.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+21:07:38.447 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+21:07:38.646 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration test passed successfully.
+21:07:38.647 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+21:07:40.347 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+21:08:31.501 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:08:32.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:08:32.998 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+21:08:40.533 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched.
+21:08:44.985 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+21:08:45.121 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+21:08:50.096 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+21:08:52.068 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+21:09:50.647 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:09:51.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:09:51.978 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:09:59.118 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+21:10:03.178 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:10:05.204 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:11:25.466 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:11:26.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:11:27.166 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:11:33.518 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+21:11:41.616 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:11:43.043 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:40:34.442 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+21:40:35.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+21:40:35.444 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:40:42.247 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+21:40:45.531 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:40:47.596 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:48:35.299 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\AppData\Local\Temp\testng-eclipse--511026753\testng-customsuite.xml"
+21:48:36.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:48:36.046 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+21:48:36.054 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:48:36.054 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 33 ms.
+21:48:36.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 35 ms.
+21:48:36.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:48:36.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.194 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:48:36.200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+21:48:36.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+21:48:36.211 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.211 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:36.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:36.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\AppData\Local\Temp\testng-eclipse--511026753\testng-customsuite.xml
+
+21:48:36.372 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 23 ms.
+21:48:36.517 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+21:48:42.515 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+21:48:46.053 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+21:48:46.111 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: \testData\opencart_logindata.xlsx (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:106)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:38)
+	at utilities.DataProviders.getData(DataProviders.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+21:48:48.536 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+21:48:49.238 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@134c370e: 502 ms
+21:48:49.287 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@573284a5: 48 ms
+21:48:49.315 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@45667d98: 28 ms
+21:48:49.354 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@70e13fa: 38 ms
+21:48:49.377 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5432c277: 23 ms
+21:48:49.387 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@15e0fe05: 0 ms
+22:13:02.873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+22:13:04.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+22:13:04.574 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+22:13:18.239 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+22:13:22.840 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+22:13:25.352 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+00:09:53.222 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\AppData\Local\Temp\testng-eclipse-102077615\testng-customsuite.xml"
+00:09:54.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+00:09:54.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+00:09:54.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.185 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.194 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 28 ms.
+00:09:54.327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 61 ms.
+00:09:54.337 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.339 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:09:54.340 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.341 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.352 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.354 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+00:09:54.359 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.378 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+00:09:54.395 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+00:09:54.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:09:54.517 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:09:54.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:09:54.585 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\AppData\Local\Temp\testng-eclipse-102077615\testng-customsuite.xml
+
+00:09:54.710 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+00:09:54.878 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+00:10:06.107 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+00:10:13.006 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+00:10:13.149 [main] ERROR org.testng.internal.Utils - [Error] java.io.FileNotFoundException: \testData\opencart_logindata.xlsx (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.&lt;init&gt;(FileInputStream.java:106)
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:38)
+	at utilities.DataProviders.getData(DataProviders.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+00:10:14.439 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+00:10:15.241 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@134c370e: 575 ms
+00:10:15.406 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@573284a5: 164 ms
+00:10:15.486 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@45667d98: 79 ms
+00:10:15.574 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@70e13fa: 87 ms
+00:10:15.620 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5432c277: 37 ms
+00:10:15.631 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@15e0fe05: 0 ms
+00:13:03.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+00:13:04.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+00:13:04.897 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+00:13:12.997 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+00:13:16.997 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+00:13:17.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:17.916 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:17.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:20.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:20.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:20.484 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:20.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:20.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:20.766 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:20.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:20.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:20.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.043 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.201 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.472 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.798 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:21.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:21.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:21.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:22.039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:22.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:22.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:22.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:22.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:22.340 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:22.393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:22.395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:22.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:22.492 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:13:22.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:13:22.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:13:22.614 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+00:13:38.353 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+00:13:49.976 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+00:13:55.011 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+00:13:59.848 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+00:14:16.360 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+00:57:46.790 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\grouping.xml"
+00:57:48.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\grouping.xml
+
+00:57:48.352 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+00:57:56.311 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+00:58:04.221 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+00:58:04.411 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+00:58:05.415 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+00:58:07.072 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+00:58:07.078 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:58:11.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+00:58:11.743 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration test passed successfully.
+00:58:11.744 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+00:58:13.310 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+00:58:13.322 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+00:58:17.716 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched.
+00:58:21.918 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+00:58:21.926 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+00:58:26.299 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+00:58:27.427 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+01:00:49.183 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+01:00:50.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+01:00:50.883 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+01:01:00.661 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+01:01:05.330 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+01:01:05.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:05.988 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:06.003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:08.496 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:08.498 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:08.501 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:08.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:08.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:08.820 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.016 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.166 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.368 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.548 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.805 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:09.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:09.913 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:09.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.272 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:10.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:01:10.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:01:10.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:01:11.036 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+01:01:25.901 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+01:01:37.252 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+01:01:41.870 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+01:01:45.397 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+01:01:59.565 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+01:09:20.187 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\grouping.xml"
+01:09:23.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\grouping.xml
+
+01:09:23.573 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+01:09:39.885 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched.
+01:09:46.056 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+01:09:46.311 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+01:09:57.043 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+01:10:03.397 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+00:25:48.564 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+00:27:49.200 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+00:28:52.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\grouping.xml"
+00:34:36.398 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+19:18:10.636 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+19:21:31.601 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+19:21:33.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+19:21:34.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+19:21:55.711 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+19:22:07.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+19:22:08.063 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+19:22:09.885 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+19:22:13.028 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'Register' Link
+19:22:13.049 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+19:22:23.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+19:22:23.662 [main] INFO  testCases.TC001_AccountRegistrationTest - Account registration test passed successfully.
+19:22:23.663 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:22:32.018 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+19:22:32.041 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+19:22:38.619 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched.
+19:22:43.231 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+19:22:43.248 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+19:22:54.025 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+19:22:59.094 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+19:22:59.097 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+19:23:06.118 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+19:23:10.790 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+19:23:12.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:12.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:12.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:17.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:17.639 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:17.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:17.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:18.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:18.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:18.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:18.376 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:18.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:18.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:18.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:18.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:18.856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:18.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:18.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:19.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:19.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:19.075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:19.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:19.294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:19.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:19.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:19.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:19.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:20.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:20.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:20.767 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:21.083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:21.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:21.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:21.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:22.593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:22.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:22.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:22.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:22.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:23.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:23.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:23.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:23.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:23.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:23.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:23.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:23.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:23.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:23.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:23:23.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:23:23.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:23:23.686 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+19:23:40.060 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+19:23:53.396 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+19:24:07.078 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+19:24:18.329 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
+19:25:10.078 [main] INFO  testCases.TC003_LoginDDT - Browser closed.
+10:24:16.368 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml"
+10:24:25.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rajit\OneDrive\Desktop\seleniumjava Sdetqa\OpenCartV121\master.xml
+
+10:24:28.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Config properties loaded successfully.
+10:26:57.072 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched.
+10:27:51.187 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser launched and navigated to the site.
+10:27:52.446 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+10:28:02.403 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on 'My Account' Link
+10:28:13.117 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed due to Exception: element not interactable
+  (Session info: chrome=134.0.6998.35)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a08f9ad01c6d48643ff92fe99ca82f45, clickElement {id=f.C9FDBEBEF31E713AD90319577C8468A2.d.A1F09A60C728DFD78F304CFB424EC38A.e.68}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\rajit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64465/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a08f9ad01c6d48643ff92fe99ca82f45)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Register']]
+Session ID: a08f9ad01c6d48643ff92fe99ca82f45
+10:28:13.137 [main] DEBUG testCases.TC001_AccountRegistrationTest - Stack Trace: 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=134.0.6998.35)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a08f9ad01c6d48643ff92fe99ca82f45, clickElement {id=f.C9FDBEBEF31E713AD90319577C8468A2.d.A1F09A60C728DFD78F304CFB424EC38A.e.68}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\rajit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64465/devtoo..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a08f9ad01c6d48643ff92fe99ca82f45)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Register']]
+Session ID: a08f9ad01c6d48643ff92fe99ca82f45
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickRegister(HomePage.java:35) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+10:28:45.214 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed.
+10:28:45.220 [main] INFO  testCases.TC002_LoginTest - Config properties loaded successfully.
+10:28:50.249 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched.
+10:29:08.913 [main] INFO  testCases.TC002_LoginTest - Browser launched and navigated to the site.
+10:29:08.955 [main] INFO  testCases.TC002_LoginTest - ***** Starting Tc_002_LoginTest *****
+10:29:12.490 [main] INFO  testCases.TC002_LoginTest - ***** Finished Tc_002_LoginTest *****
+10:29:43.577 [main] INFO  testCases.TC002_LoginTest - Browser closed.
+10:29:43.580 [main] INFO  testCases.TC003_LoginDDT - Config properties loaded successfully.
+10:29:49.568 [main] INFO  testCases.TC003_LoginDDT - Chrome browser launched.
+10:30:21.572 [main] INFO  testCases.TC003_LoginDDT - Browser launched and navigated to the site.
+10:30:22.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:22.313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:22.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:24.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:24.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:24.318 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:24.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:24.553 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:24.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:24.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:24.859 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:24.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:25.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:25.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:25.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:25.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:25.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:25.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:25.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:25.347 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:25.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:25.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:25.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:25.519 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:25.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:25.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:25.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:26.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:26.157 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:26.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:26.272 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:26.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:26.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:26.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:26.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:26.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:26.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:26.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:26.742 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:26.916 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:26.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:26.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:27.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:27.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:27.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:27.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:27.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:27.119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:27.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:30:27.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:30:27.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:30:27.354 [main] INFO  testCases.TC003_LoginDDT - **** Stating TC_003_loginDDT ***
